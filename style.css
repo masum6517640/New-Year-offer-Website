@@ -174,3 +174,43 @@
 .secondary-color {
     color:#FF0000;
 }
+
+
+/* comming soon section */
+
+.comming-soon {
+    display: flex;
+    justify-content: space-around;
+   margin: 50px 100px;
+   gap:50px;
+
+}
+.comming-soon-column {
+    width:40%;
+    
+}
+
+.comming-soon-column .middle-img {
+    width: 250px;
+    height: 250px;
+    padding:20px;
+    border: 10px solid red;
+    border-radius: 50%;
+
+}
+
+
+.comming-sooon-title {
+    font-size: 20px;
+    
+}
+.comming-soon-dis {
+    color:#0702117c;
+    font-size: 14px;
+    font-weight: 200;
+}
+
+
+
+
+
