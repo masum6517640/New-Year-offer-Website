@@ -1,0 +1,176 @@
+
+.merriweather-fonts {
+  font-family: "Merriweather", serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+.inter-fonts {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.herro-banner {
+    background-image: linear-gradient(rgba(7, 2, 17, 0.8), rgba(52, 52, 52, 0.347)),url(images/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    color:white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin:50px 100px;
+    
+}
+
+
+.hero-content h2, h4 {
+    margin:10px 0px;
+}
+.hero-subtitle {
+    font-size: 30px;
+    font-weight: 200;
+    
+}
+
+.hero-title {
+    font-size: 60px;
+}
+
+/* Holidy offer area */
+
+.holiday-offer {
+    margin:120px 400px;
+    text-align: center;
+
+
+}
+
+
+.offer-discount {
+    font-size: 80px;
+    color: #FF0000;
+    font-weight: 900;
+    margin-bottom:20px;
+}
+
+.offer-tagline {
+    color:#FF0000;
+    font-size: 22px;
+}
+
+.offer-content h3 {
+    margin:20px 0px;
+}
+
+.offer-category  {
+    font-size: 40px;
+}
+.offer_image_box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0px;   
+}
+
+.offer_image_box img {
+    width:600px;
+    height: 400px;
+
+}
+
+
+
+/* midnight party area */
+
+.midnight {
+    background-image: linear-gradient(to right, rgba(7, 2, 17, 0.92), rgba(7, 2, 17, 0.002)),
+                  url('images/Vectorrr.png');
+
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 500px;
+    margin: 50px 100px;
+    color: white;
+    border-radius: 20px;
+    display: flex;
+    
+}
+
+.midnight_overlay {
+
+    display: flex;
+    justify-content: space-around;
+
+    padding: 50px 100px;
+    
+
+}
+
+.midight_content {
+    width:60%;
+    
+}
+
+.midnight_image {
+    width:40%;
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.midnight_image img {
+    width: 270px;
+    
+}
+
+.midnight_title {
+    font-size: 50px;
+    letter-spacing: 8px;
+}
+
+.midnight_description  {
+    font-weight: 200;
+}
+
+.midight_content button {
+    background: none;
+    color:white;
+    border:none;
+    font-size: 17px;
+    font-weight: 400;
+    margin-top:30px;
+    cursor: pointer;
+}
+
+
+/* event info */
+
+.event-info {
+    background-image: linear-gradient(to bottom, #ff000029, #df6d6d06);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px 100px;
+    border-radius: 20px;
+    height: 400px;
+}
+
+.event-info-card {
+    justify-items: center;
+    font-size: 25px;
+}
+
+.secondary-color {
+    color:#FF0000;
+}
