@@ -211,6 +211,71 @@
 }
 
 
+/* holiday sale area */
+
+.holidy-sale {
+    margin:50px 100px;
+    
+    
+} 
+.holiday-content {
+
+   justify-items: center;
+
+    
+}
+.holiday-dis {
+    width:800px;
+    text-align: center;
+}
+
+.holiday-images {
+    background-image: url('images/Rectangle\ 2.png');
+    
+    background-repeat: no-repeat;
+    background-position: bottom;
+    display: flex;
+    margin-top: 100px;
+
+    height: 500px;
+    justify-content: space-around;
+    align-items: top center;
+    
+}
+
+.discount-column-img {
+    margin-top:0px;
+}
 
 
 
+
+.gift-column-img img {
+    height:400px;
+}
+
+
+.discount-column-img {
+    align-items: top center;
+}
+
+
+.btn-secondary {
+    color: #FF0000;
+
+   
+}
+
+.holiday-title {
+    font-size: 50px;
+    font-weight: 900;
+}
+
+
+
+
+.holiday-dis {
+    font-size: 14px;
+    font-weight: 200;
+    
+}
