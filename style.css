@@ -393,6 +393,10 @@ footer {
     display: flex;
     justify-content: center;
     margin:30px 0;
+    gap:20px;
+}
+.footer-social-icon img {
+    width:40px;
 }
 
 .footer-copy-area {
