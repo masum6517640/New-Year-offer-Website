@@ -325,14 +325,19 @@ body {
 .newslatter-dis {
     width:60%;
     text-align: center;
+    color: #0702116b;
+    font-size: 14px;
+    font-weight: 300;
+    margin-bottom: 50px;
 }
 
 .newslatter-input input {
-    padding: 16px 10px;
+    padding: 16px 20px;
     width:400px;
     border: none;
     border-bottom-left-radius: 15px;
     border-top-left-radius: 15px;
+    
 }
 
 .newslatter-input button {
@@ -354,6 +359,7 @@ body {
 footer {
     background-color: #070211;
     padding:50px 100px;
+    margin-top: 100px;
     
 } 
 
@@ -404,6 +410,6 @@ footer {
 
 footer  hr {
     border: none;
-    border-top: 1px solid rgba(58, 55, 55, 0.6); /* আগের চেয়ে একটু dark */
+    border-top: 1px solid rgba(58, 55, 55, 0.6); 
     
 }
